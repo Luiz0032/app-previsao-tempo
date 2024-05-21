@@ -57,16 +57,19 @@ body {
 }
 
 .informacao-principal h1 {
-    font-size: 18px;
+    font-size: px;
+    text-shadow: 2px 2px rgb(255, 255, 255);
 }
 
 .informacao-principal .temperatura {
     font-size: 68px;
     margin: 18px 0;
+    text-shadow: 2px 2px rgb(255, 255, 255);
 }
 
 .informacao-principal .condicao {
-    font-size: 20px;
+    font-size: 30px;
+    text-shadow: 1px 1px rgb(255, 255, 255);
 }
 
 .informacao-secundaria {
